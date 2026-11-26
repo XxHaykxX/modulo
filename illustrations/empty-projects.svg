@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M48 38.13 L86 60.07 L48 82.01 L10 60.07 Z" fill="#FDE6D2" stroke="#1B1A19" stroke-width="2"/>
+  <path d="M48 38.13 L10 60.07 L10 35.93 L48 13.99 Z" fill="#FFFFFF" stroke="#1B1A19" stroke-width="2"/>
+  <path d="M48 38.13 L86 60.07 L86 35.93 L48 13.99 Z" fill="#FFFFFF" stroke="#1B1A19" stroke-width="2"/>
+  <path d="M68.52 40.76 L79.16 46.9 L79.16 36.81 L68.52 30.67 Z" fill="#FDE6D2" stroke="#1B1A19" stroke-width="1.5"/>
+  <path d="M73.84 43.83 L73.84 33.74" stroke="#1B1A19" stroke-width="1.5"/>
+  <path d="M29 49.1 L21.4 53.48 L21.4 35.93 L29 31.55 Z" fill="#FFFFFF" stroke="#1B1A19" stroke-width="1.5"/>
+  <path d="M29 49.1 L36.6 53.48 L36.6 35.93 L29 31.55 Z" fill="#F27A1A" stroke="#1B1A19" stroke-width="2"/>
+  <path d="M49.52 46.9 L63.2 54.8 L55.6 59.19 L41.92 51.29 L49.52 46.9" stroke="#1B1A19" stroke-width="1.5" stroke-dasharray="3 3.5"/>
+  <path d="M41.92 51.29 L41.92 61.82 L55.6 69.72 L63.2 65.33 L63.2 54.8" stroke="#1B1A19" stroke-width="1.5" stroke-dasharray="3 3.5"/>
+  <path d="M55.6 69.72 L55.6 59.19" stroke="#1B1A19" stroke-width="1.5" stroke-dasharray="3 3.5"/>
+</svg>
